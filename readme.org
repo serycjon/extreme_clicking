@@ -1,0 +1,3 @@
+* Extreme clicking for efficient object annotation
+  Description...
+* TODO licence
